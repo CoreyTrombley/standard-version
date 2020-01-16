@@ -12,7 +12,8 @@ const defaults = {
   skip: {},
   dryRun: false,
   gitTagFallback: true,
-  preset: require.resolve('conventional-changelog-conventionalcommits')
+  preset: require.resolve('conventional-changelog-conventionalcommits'),
+  allowNonSemver: false,
 }
 
 /**

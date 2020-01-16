@@ -99,6 +99,11 @@ const yargs = require('yargs')
     default: defaults.preset,
     describe: 'Commit message guideline preset'
   })
+  .option('allow-non-semver', {
+    type: 'boolean',
+    default: defaults.allowNonSemver,
+    describe: 'Allows for non semver versions'
+  })
   .check((argv) => {
     if (typeof argv.scripts !== 'object' || Array.isArray(argv.scripts)) {
       throw Error('scripts must be an object')
