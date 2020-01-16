@@ -2,35 +2,6 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [2.0.0](https://github.com/conventional-changelog/standard-version/compare/v7.1.0...v2.0.0) (2020-01-16)
-
-
-### ⚠ BREAKING CHANGES
-
-* `composer.json` and `composer.lock` will no longer be read from or bumped by default. If you need to obtain a version or write a version to these files, please use `bumpFiles` and/or `packageFiles` options accordingly.
-
-### Features
-
-* **non-semver:** Allows non semver versions ([f21ec4d](https://github.com/conventional-changelog/standard-version/commit/f21ec4d601dc1b725989f26081a4e81390faeb7a))
-
-
-### Bug Fixes
-
-* **deps:** update dependency yargs to v15.1.0 ([#518](https://github.com/conventional-changelog/standard-version/issues/518)) ([8f36f9e](https://github.com/conventional-changelog/standard-version/commit/8f36f9e073119fcbf5ad843237fb06a4ca42a0f9))
-* composer.json and composer.lock have been removed from default package and bump files. ([c934f3a](https://github.com/conventional-changelog/standard-version/commit/c934f3a38da4e7234d9dba3b2405f3b7e4dc5aa8)), closes [#495](https://github.com/conventional-changelog/standard-version/issues/495) [#394](https://github.com/conventional-changelog/standard-version/issues/394)
-
-## [1.0.0](https://github.com/conventional-changelog/standard-version/compare/v7.1.0...v1.0.0) (2020-01-16)
-
-
-### ⚠ BREAKING CHANGES
-
-* `composer.json` and `composer.lock` will no longer be read from or bumped by default. If you need to obtain a version or write a version to these files, please use `bumpFiles` and/or `packageFiles` options accordingly.
-
-### Bug Fixes
-
-* **deps:** update dependency yargs to v15.1.0 ([#518](https://github.com/conventional-changelog/standard-version/issues/518)) ([8f36f9e](https://github.com/conventional-changelog/standard-version/commit/8f36f9e073119fcbf5ad843237fb06a4ca42a0f9))
-* composer.json and composer.lock have been removed from default package and bump files. ([c934f3a](https://github.com/conventional-changelog/standard-version/commit/c934f3a38da4e7234d9dba3b2405f3b7e4dc5aa8)), closes [#495](https://github.com/conventional-changelog/standard-version/issues/495) [#394](https://github.com/conventional-changelog/standard-version/issues/394)
-
 ## [7.1.0](https://github.com/conventional-changelog/standard-version/compare/v7.0.1...v7.1.0) (2019-12-08)
 
 
