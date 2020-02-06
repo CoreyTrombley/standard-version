@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conventional-changelog/standard-version.git"
+    "url": "git+https://github.com/coreytrombley/standard-version.git"
   },
   "engines": {
     "node": ">=8.0"
@@ -34,9 +34,9 @@
   "author": "Ben Coe <ben@npmjs.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/conventional-changelog/standard-version/issues"
+    "url": "https://github.com/coreytrombley/standard-version/issues"
   },
-  "homepage": "https://github.com/conventional-changelog/standard-version#readme",
+  "homepage": "https://github.com/coreytrombley/standard-version#readme",
   "dependencies": {
     "chalk": "2.4.2",
     "conventional-changelog": "3.1.15",
