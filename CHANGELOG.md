@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [8.0.2](https://github.com/conventional-changelog/standard-version/compare/v8.0.0...v8.0.2) (2020-02-06)
+
+
+### Bug Fixes
+
+* **Changelog:** Modified the last release regex pattern matcher ([d743c5e](https://github.com/conventional-changelog/standard-version/commit/d743c5ee67a6ee39a930e415b3323d0533125077))
+
 ### [8.0.1](https://github.com/conventional-changelog/standard-version/compare/v8.0.0...v8.0.1) (2020-02-06)
 
 
