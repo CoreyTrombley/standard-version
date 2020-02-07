@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [8.0.7](https://github.com/coreytrombley/standard-version/compare/v8.0.6...v8.0.7) (2020-02-07)
+
 ### [8.0.6](https://github.com/coreytrombley/standard-version/compare/v8.0.5...v8.0.6) (2020-02-07)
 
 ### [8.0.5](https://github.com/coreytrombley/standard-version/compare/v8.0.4...v8.0.5) (2020-02-07)
