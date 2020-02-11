@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [8.1.1](https://github.com/coreytrombley/standard-version/compare/v8.1.0...v8.1.1) (2020-02-11)
+
+
+### Bug Fixes
+
+* Removes consoles ([29f487f](https://github.com/coreytrombley/standard-version/commit/29f487f62384b4b5f6b6fa442ad0a7ebf17db994))
+
 ## [8.1.0](https://github.com/coreytrombley/standard-version/compare/v8.0.7...v8.1.0) (2020-02-07)
 
 
