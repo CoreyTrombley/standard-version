@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 ---
 
+### [8.1.3](https://github.com/coreytrombley/standard-version/compare/v8.1.2...v8.1.3) (2020-12-15)
+
+
+### Bug Fixes
+
+* **changelog:** changes the regex for chaneglog file ([f63e1ad](https://github.com/coreytrombley/standard-version/commit/f63e1ad0af9e5522f7eb7e738a73917fe1b6f0db))
+
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+---
+
 ### [8.1.2](https://github.com/coreytrombley/standard-version/compare/v8.1.1...v8.1.2) (2020-12-15)
 
 # Changelog
