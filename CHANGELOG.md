@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 ---
 
+### [8.1.17](https://github.com/coreytrombley/standard-version/compare/v8.1.16...v8.1.17) (2020-12-15)
+
+---
+
 ### [8.1.16](https://github.com/coreytrombley/standard-version/compare/v8.1.15...v8.1.16) (2020-12-15)
 
 # Changelog
