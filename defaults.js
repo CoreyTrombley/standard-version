@@ -14,6 +14,7 @@ const defaults = {
   gitTagFallback: true,
   preset: require.resolve('conventional-changelog-conventionalcommits'),
   allowNonSemver: false,
+  startLastReleaseRegex: '/---/'
 }
 
 /**
@@ -28,7 +29,7 @@ Object.keys(spec.properties).forEach(propertyKey => {
  * Sets the default for `header` (provided by the spec) for backwards
  * compatibility. This should be removed in the next major version.
  */
-defaults.header = '# Changelog\n\nAll notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.\n'
+defaults.header = '# Changelog\n\nAll notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.\n---\n'
 
 defaults.packageFiles = [
   'package.json',
