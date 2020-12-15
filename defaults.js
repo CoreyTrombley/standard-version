@@ -14,7 +14,7 @@ const defaults = {
   gitTagFallback: true,
   preset: require.resolve('conventional-changelog-conventionalcommits'),
   allowNonSemver: false,
-  startLastReleaseRegex: '/---/'
+  startLastReleasePattern: '---'
 }
 
 /**

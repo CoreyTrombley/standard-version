@@ -87,7 +87,7 @@ const yargs = require('yargs')
     describe: 'fallback to git tags for version, if no meta-information file is found (e.g., package.json)'
   })
   .option('start-of-last-release-regex', {
-    default: defaults.startLastReleaseRegex,
+    default: defaults.startLastReleasePattern,
     alias: 'rr',
     type: 'string',
     describe: 'Regex pattern to search for the start of last release location in changelog file (e.g, /---/)'
