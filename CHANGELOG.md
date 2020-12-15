@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file. See [standa
 
 ---
 
+### [8.1.6](https://github.com/coreytrombley/standard-version/compare/v8.1.5...v8.1.6) (2020-12-15)
+
+
+### Bug Fixes
+
+* updates the way the header is added ([ce1eb31](https://github.com/coreytrombley/standard-version/commit/ce1eb31de4d88720878310cfb5fff96b602a2e17))
+
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+---
+
 ### [8.1.5](https://github.com/coreytrombley/standard-version/compare/v8.1.4...v8.1.5) (2020-12-15)
 
 # Changelog
