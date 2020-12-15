@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file. See [standa
 
 ---
 
+### [8.1.5](https://github.com/coreytrombley/standard-version/compare/v8.1.4...v8.1.5) (2020-12-15)
+
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+---
+
 ### [8.1.4](https://github.com/coreytrombley/standard-version/compare/v8.1.3...v8.1.4) (2020-12-15)
 
 
@@ -11,9 +19,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 * making sure we get the correct layout ([d22aaa9](https://github.com/coreytrombley/standard-version/commit/d22aaa90d1156952b1df4be2c34e2883d64dc6e1))
 
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 ---
 
 ### [8.1.3](https://github.com/coreytrombley/standard-version/compare/v8.1.2...v8.1.3) (2020-12-15)
@@ -23,9 +28,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 * **changelog:** changes the regex for chaneglog file ([f63e1ad](https://github.com/coreytrombley/standard-version/commit/f63e1ad0af9e5522f7eb7e738a73917fe1b6f0db))
 
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 ---
 
 ### [8.1.2](https://github.com/coreytrombley/standard-version/compare/v8.1.1...v8.1.2) (2020-12-15)
