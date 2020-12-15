@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file. See [standa
 
 ---
 
+### [8.1.11](https://github.com/coreytrombley/standard-version/compare/v8.1.10...v8.1.11) (2020-12-15)
+
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+---
+
 ### [8.1.10](https://github.com/coreytrombley/standard-version/compare/v8.1.9...v8.1.10) (2020-12-15)
 
 # Changelog
