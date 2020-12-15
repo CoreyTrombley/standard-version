@@ -1,6 +1,19 @@
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+---
+
+### [8.1.4](https://github.com/coreytrombley/standard-version/compare/v8.1.3...v8.1.4) (2020-12-15)
+
+
+### Bug Fixes
+
+* making sure we get the correct layout ([d22aaa9](https://github.com/coreytrombley/standard-version/commit/d22aaa90d1156952b1df4be2c34e2883d64dc6e1))
+
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 ---
 
 ### [8.1.3](https://github.com/coreytrombley/standard-version/compare/v8.1.2...v8.1.3) (2020-12-15)
