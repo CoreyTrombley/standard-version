@@ -33,8 +33,8 @@ module.exports = function standardVersion (argv) {
     }
   }
 
-  if (argv.header && argv.header.search(changelog.START_OF_LAST_RELEASE_PATTERN) !== -1) {
-    throw Error(`custom changelog header must not match ${changelog.START_OF_LAST_RELEASE_PATTERN}`)
+  if (argv.header && argv.header.search(argv.startOfLastReleaseRegex) !== -1) {
+    throw Error(`custom changelog header must not match ${argv.startOfLastReleaseRegex}`)
   }
 
   const args = Object.assign({}, defaults, argv)
