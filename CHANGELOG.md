@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file. See [standa
 
 ---
 
+### [8.1.19](https://github.com/coreytrombley/standard-version/compare/v8.1.18...v8.1.19) (2021-01-26)
+
+
+### Bug Fixes
+
+* **changlog:** Fixes issue with substring method ([549a692](https://github.com/coreytrombley/standard-version/commit/549a692a8a194d4d43ee9c814098c32956368b9b))
+
+---
+
 ### [8.1.18](https://github.com/coreytrombley/standard-version/compare/v8.1.17...v8.1.18) (2020-12-15)
 
 
