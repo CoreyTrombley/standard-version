@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file. See [standa
 
 ---
 
+### [8.1.20](https://github.com/coreytrombley/standard-version/compare/v8.1.19...v8.1.20) (2021-01-27)
+
+
+### Bug Fixes
+
+* Fixes regex issue ([3d5ea36](https://github.com/coreytrombley/standard-version/commit/3d5ea36bc216d3c307d5b1e0ca251e24831f79a0))
+* **changelog:** Fixes capture group for regex ([f09a2cc](https://github.com/coreytrombley/standard-version/commit/f09a2cc9af1ff4c3640104dae9236b3e2b050298))
+
+---
+
 ### [8.1.19](https://github.com/coreytrombley/standard-version/compare/v8.1.18...v8.1.19) (2021-01-26)
 
 
